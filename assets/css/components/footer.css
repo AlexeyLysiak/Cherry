@@ -1,0 +1,29 @@
+.footer { 
+    background-color: #262d34;
+    border-top: 12px solid #ff1744 ;
+    color: #85898f;
+    padding: 30px;
+}
+
+.footer-title { 
+    font-size: 18px;
+    color: #a5adb8;
+    font-weight: normal;
+    /* margin-bottom: 15px; */
+}
+.footer-desc { 
+    margin: 0;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+.footer-subtitle { 
+    margin-bottom: 12px;
+}
+.footer-phone { 
+    font-size: 14px;
+    color: #a5adb8;
+    font-weight: bold;
+}
+.footer .list  {
+    font-size: 12px;
+}
